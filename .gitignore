@@ -1,0 +1,24 @@
+# IDE
+.idea
+.vscode
+
+# Tree service
+internal/neofs/services/tree/
+
+# Vendoring
+vendor
+
+# tempfiles
+.DS_Store
+*~
+.cache
+
+# binary
+bin/
+
+# coverage
+coverage.txt
+coverage.html
+
+# debhelpers
+**/.debhelper
